@@ -97,8 +97,8 @@ body {
 
 .skills .progress-bar {
   width: 1px;
-  height: 4px;
-  transition: 1s;
+  height: 7px;
+  transition: 1.5s;
   background-color: #17a2b8;
 }
 
